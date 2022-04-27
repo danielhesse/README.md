@@ -6,13 +6,21 @@
 
 My README template used in projects.
 
-badge com status | 
-
-## Description
-
 A brief description of the purpose of the project.
 
-  #### Features
+## :pushpin: Table of contents
+<!--ts-->
+   * [Features](#features)
+   * [Technologies](#zap-technologies)
+      * [Code standards](#balloon-code-standards)
+   * [Application demo](#triangular_flag_on_post-application-demo)
+      * [Cloud infrastructure](#cloud-cloud-infrastructure)
+   * [Getting started](#computer-getting-started)
+   * [How to run](#information_source-how-to-run)
+   * [License](#page_facing_up-license)
+<!--te-->
+
+## Features
   
   - [x] Feature 1
   - [ ] Feature 2
