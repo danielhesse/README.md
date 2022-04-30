@@ -99,7 +99,7 @@ Run project:
 yarn <command-script>
 ```
 
-The server will start on port 3333 - go to http://localhost:3333
+The server will start on port 3333. Go to http://localhost:3333
 
 ## :tada: How to contribute to the project
 
