@@ -17,6 +17,7 @@ A brief description of the purpose of the project.
       * [Cloud infrastructure](#cloud-cloud-infrastructure)
    * [Getting started](#computer-getting-started)
    * [How to run](#information_source-how-to-run)
+   * [How to contribute to the project](tada-how-to-contribute-to-the-project)
    * [License](#page_facing_up-license)
 <!--te-->
 
@@ -99,6 +100,15 @@ yarn <command-script>
 ```
 
 The server will start on port 3333 - go to http://localhost:3333
+
+## :tada: How to contribute to the project
+
+1. Fork the project
+2. Create a new branch with your changes: ```git checkout -b my-feature```
+3. Save the changes and create a commit message telling what you've done: ```git commit -m "feature: My new feature"```
+4. Submit your changes: ```git push origin my-feature```
+
+Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions).
 
 ## :page_facing_up: License
 
