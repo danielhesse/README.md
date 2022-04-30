@@ -71,6 +71,26 @@ Also, it’s good to have an editor to work with the code like [VSCode](https://
 
 Follow the instructions below to download and use the project from this repository:
 
+```bash
+# Clone this repository using SSH
+$ git clone git@github.com:danielhessell/README.md.git
+# or clone using https
+$ git clone https://github.com/danielhessell/README.md.git
+
+# Go into the repository
+$ cd README.md
+
+# Install dependencies with yarn
+$ yarn
+# or install dependencies with npm
+$ npm i
+
+# Run project with yarn
+$ yarn <command-script>
+# or run project with npm
+$ npm run <command-script>
+```
+
 ## :page_facing_up: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/danielhessell/README.md/blob/master/LICENSE) file for more details.
