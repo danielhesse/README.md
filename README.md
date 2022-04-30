@@ -17,7 +17,7 @@ A brief description of the purpose of the project.
       * [Cloud infrastructure](#cloud-cloud-infrastructure)
    * [Getting started](#computer-getting-started)
    * [How to run](#information_source-how-to-run)
-   * [How to contribute to the project](tada-how-to-contribute-to-the-project)
+   * [How to contribute to the project](#tada-how-to-contribute-to-the-project)
    * [License](#page_facing_up-license)
 <!--te-->
 
